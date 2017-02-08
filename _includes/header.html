@@ -1,0 +1,26 @@
+<div id="background1">
+    <img src="{{ "/images/bg2.jpg" | relative_url }}" class="stretch" alt="" />
+</div>
+<div class="main">
+  <div class="header">
+
+    <div class="clr"></div>
+  </div>
+  <div class="block_header">
+    <div class="menu">
+      <ul>
+        {% assign url = page.url|remove:'index.html' %}
+        <li><a href="{{ "/" | relative_url }}" {% if url == '/' %}class="active"{% endif %}><span>Home</span></a></li>
+        <li><a href="{{ "/stmary/" | relative_url }}" {% if url == '/stmary/' %}class="active"{% endif %}><span>St.Mary</span></a></li>
+        <li><a href="{{ "/hierarchy/" | relative_url }}" {% if url == '/hierarchy/' %}class="active"{% endif %}><span>Hierarchy</span></a></li>
+        <li><a href="{{ "/board/" | relative_url }}" {% if url == '/board/' %}class="active"{% endif %}><span>Board of Trustees</span></a></li>
+        <li><a href="{{ "/gallery/" | relative_url }}" {% if url == '/gallery/' %}class="active"{% endif %}><span>Gallery</span></a></li>
+        <li><a href="{{ "/links/" | relative_url }}" {% if url == '/links/' %}class="active"{% endif %}><span>Links</span></a></li>
+        <li><a href="{{ "/contact/" | relative_url }}" {% if url == '/contact/' %}class="active"{% endif %}><span>Contact Us</span></a></li>
+      </ul>
+    </div>
+    <div class="clr"></div>
+
+  </div>
+  
+  <div class="clr"></div>
