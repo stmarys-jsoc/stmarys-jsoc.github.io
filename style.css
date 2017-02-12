@@ -1,5 +1,9 @@
 @charset "utf-8";
-body { margin:0; padding:0; width:100%;}
+body { 
+    margin:0; 
+    padding: 0;
+    width:100%;
+}
 html { padding:0; margin:0;}
 
 a { text-decoration:none;}
@@ -26,12 +30,12 @@ a:hover { text-decoration:underline;}
 
 
 /* block header */
-.block_header { margin:0 auto; width:1000px; background:url(images/title_page_bot.png) bottom left; padding:0 0 10px 0;}
+.block_header { margin:0 auto; width:1000px; padding:0 0 10px 0;}
 /* menu */	
 .menu { padding:0; margin:0; width:1000px; height:54px; background:url(images/menu_bg.gif)}
 .menu ul { padding:5px 15px; margin:0; list-style:none; border:0;}
 .menu ul li { float:left; margin:0; padding:0; border:0; border-right:1px dotted #757d82;}
-.menu ul li a { float:left; margin:0; padding:14px 0; color:#ffffff; font:normal 13px Arial, Helvetica, sans-serif; text-decoration:none;}
+.menu ul li a { float:left; margin:0; padding:14px 0; color:#ffffff; text-decoration:none;}
 .menu ul li a span { padding:14px; background:none;}
 .menu ul li a.active { background:url(images/menu_h.gif);}
 .menu ul li a:hover { background:url(images/menu_h.gif);}
@@ -40,8 +44,8 @@ a:hover { text-decoration:underline;}
 .header_title { background:url(images/title_page_bg.gif);}
 .header_title img { float:left; margin:0;}
 .header_title img.img_title { float:left; margin:5px 60px;}
-.header_title h2 { margin:0; padding:10px; font:bold 19px Arial, Helvetica, sans-serif; color:#FFF; line-height:1.4em;}
-.header_title p { margin:0; padding:5px 10px; font:normal 13px Arial, Helvetica, sans-serif; color:#acb5b9; line-height:1.8em;}
+.header_title h2 { margin:0; padding:10px; color:#FFF; line-height:1.4em;}
+.header_title p { margin:0; padding:5px 10px; color:#acb5b9; line-height:1.8em;}
 
 /* gallery */
 .slider { width:1000px; margin:0 auto; padding:10px 0;}
@@ -67,11 +71,11 @@ ul.body_menu_nav li a:hover { background: url(images/listre_h.png) no-repeat rig
 /********** body **********/
 .body { width:1000px; margin:0 auto; background:none;}
 
-.body h2 { margin:10px 0 20px 0; padding:16px 5px 14px 65px; font:normal 22px Tahoma, Geneva, sans-serif; color:#424a55;}
+.body h2 { margin:10px 0 20px 0; padding:16px 5px 14px 65px; color:#424a55;}
 .body h3 { margin:0; padding:10px 5px 10px 150px; font:bold 17px Arial, Helvetica, sans-serif; color:#666666;}
 .body ul { margin:0 15px; padding:0;} 
 .body li { margin:0; padding:0;} 
-.body p, .body li { color:#414141; font:normal 11px Arial, Helvetica, sans-serif; line-height:1.8em;text-align: justify;}
+.body p, .body li { color:#414141; text-align: justify;}
 .body p { padding:5px; margin:0;}
 .body strong { color:#898989; font:normal 15px Arial, Helvetica, sans-serif; line-height:1.8em;}
 .body a { color:#3f91b4; font:normal 11px Arial, Helvetica, sans-serif; line-height:1.8em;}

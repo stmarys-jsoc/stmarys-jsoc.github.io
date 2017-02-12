@@ -1,26 +1,42 @@
+<nav class="navbar navbar-toggleable-md navbar-light">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" 
+      data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" 
+      aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav mr-auto">
+      {% assign url = page.url|remove:'index.html' %}
+      <li class="nav-item {% if url == '/' %}active{% endif %}">
+        <a class="nav-link" href="{{ "/" | relative_url }}">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item {% if url == '/stmary/' %}active{% endif %}">
+        <a class="nav-link" href="{{ "/stmary/" | relative_url }}">St.Mary</a>
+      </li>
+      <li class="nav-item {% if url == '/hierarchy/' %}active{% endif %}">
+        <a class="nav-link" href="{{ "/hierarchy/" | relative_url }}">Hierarchy</a>
+      </li>
+      <li class="nav-item {% if url == '/board/' %}active{% endif %}">
+        <a class="nav-link" href="{{ "/board/" | relative_url }}">Board of Trustees</a>
+      </li>
+      <li class="nav-item {% if url == '/gallery/' %}active{% endif %}">
+        <a class="nav-link" href="{{ "/gallery/" | relative_url }}">Gallery</a>
+      </li>
+      <li class="nav-item {% if url == '/links/' %}active{% endif %}">
+        <a class="nav-link" href="{{ "/links/" | relative_url }}">Links</a>
+      </li>
+      <li class="nav-item {% if url == '/contact/' %}active{% endif %}">
+        <a class="nav-link" href="{{ "/contact/" | relative_url }}">Contact Us</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
 <div id="background1">
     <img src="{{ "/images/bg2.jpg" | relative_url }}" class="stretch" alt="" />
 </div>
+
 <div class="main">
   <div class="header">
-
     <div class="clr"></div>
   </div>
-  <div class="block_header">
-    <div class="menu">
-      <ul>
-        {% assign url = page.url|remove:'index.html' %}
-        <li><a href="{{ "/" | relative_url }}" {% if url == '/' %}class="active"{% endif %}><span>Home</span></a></li>
-        <li><a href="{{ "/stmary/" | relative_url }}" {% if url == '/stmary/' %}class="active"{% endif %}><span>St.Mary</span></a></li>
-        <li><a href="{{ "/hierarchy/" | relative_url }}" {% if url == '/hierarchy/' %}class="active"{% endif %}><span>Hierarchy</span></a></li>
-        <li><a href="{{ "/board/" | relative_url }}" {% if url == '/board/' %}class="active"{% endif %}><span>Board of Trustees</span></a></li>
-        <li><a href="{{ "/gallery/" | relative_url }}" {% if url == '/gallery/' %}class="active"{% endif %}><span>Gallery</span></a></li>
-        <li><a href="{{ "/links/" | relative_url }}" {% if url == '/links/' %}class="active"{% endif %}><span>Links</span></a></li>
-        <li><a href="{{ "/contact/" | relative_url }}" {% if url == '/contact/' %}class="active"{% endif %}><span>Contact Us</span></a></li>
-      </ul>
-    </div>
-    <div class="clr"></div>
-
-  </div>
-  
-  <div class="clr"></div>

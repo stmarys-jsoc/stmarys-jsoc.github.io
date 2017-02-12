@@ -1,7 +1,16 @@
 </div>
-  <div class="clr"></div>
-  <div class="footer">
+<div class="footer">
  <p>Copyright © St.Marys J.S.O.C Manchester. All Rights Reserved</p>
     <div class="clr"></div>
-  </div>
 </div>
+
+<!-- jQuery first, then Tether, then Bootstrap JS. -->
+<script src="{{ "/js/jquery.js" | relative_url }}" type="text/javascript"></script>
+<script src="{{ "/js/jquery.tabs.pack.js" | relative_url }}" type="text/javascript"></script>
+<script src="{{ "/js/tether.min.js" | relative_url }}" type="text/javascript"></script>
+<script src="{{ "/js/bootstrap.min.js" | relative_url }}" type="text/javascript"></script>
+<script type="text/javascript">
+  $(function() {
+    $('#tabs_block').tabs({ fxFade: true });
+  });
+</script>
