@@ -4,29 +4,29 @@
       aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-    <ul class="navbar-nav mr-auto">
+  <div class="collapse navbar-collapse justify-content-end" id="navbarsExampleDefault">
+    <ul class="navbar-nav">
       {% assign url = page.url|remove:'index.html' %}
-      <li class="nav-item {% if url == '/' %}active{% endif %}">
-        <a class="nav-link" href="{{ "/" | relative_url }}">Home <span class="sr-only">(current)</span></a>
+      <li class="nav-item">
+        <a class="nav-link {% if url == '/' %}active{% endif %}" href="{{ "/" | relative_url }}">Home <span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item {% if url == '/stmary/' %}active{% endif %}">
-        <a class="nav-link" href="{{ "/stmary/" | relative_url }}">St.Mary</a>
+      <li class="nav-item">
+        <a class="nav-link {% if url == '/stmary/' %}active{% endif %}" href="{{ "/stmary/" | relative_url }}">St.Mary</a>
       </li>
-      <li class="nav-item {% if url == '/hierarchy/' %}active{% endif %}">
-        <a class="nav-link" href="{{ "/hierarchy/" | relative_url }}">Hierarchy</a>
+      <li class="nav-item">
+        <a class="nav-link {% if url == '/hierarchy/' %}active{% endif %}" href="{{ "/hierarchy/" | relative_url }}">Hierarchy</a>
       </li>
-      <li class="nav-item {% if url == '/board/' %}active{% endif %}">
-        <a class="nav-link" href="{{ "/board/" | relative_url }}">Board of Trustees</a>
+      <li class="nav-item">
+        <a class="nav-link  {% if url == '/board/' %}active{% endif %}" href="{{ "/board/" | relative_url }}">Board of Trustees</a>
       </li>
-      <li class="nav-item {% if url == '/gallery/' %}active{% endif %}">
-        <a class="nav-link" href="{{ "/gallery/" | relative_url }}">Gallery</a>
+      <li class="nav-item">
+        <a class="nav-link  {% if url == '/gallery/' %}active{% endif %}" href="{{ "/gallery/" | relative_url }}">Gallery</a>
       </li>
-      <li class="nav-item {% if url == '/links/' %}active{% endif %}">
-        <a class="nav-link" href="{{ "/links/" | relative_url }}">Links</a>
+      <li class="nav-item">
+        <a class="nav-link {% if url == '/links/' %}active{% endif %}" href="{{ "/links/" | relative_url }}">Links</a>
       </li>
-      <li class="nav-item {% if url == '/contact/' %}active{% endif %}">
-        <a class="nav-link" href="{{ "/contact/" | relative_url }}">Contact Us</a>
+      <li class="nav-item">
+        <a class="nav-link {% if url == '/contact/' %}active{% endif %}" href="{{ "/contact/" | relative_url }}">Contact Us</a>
       </li>
     </ul>
   </div>
