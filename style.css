@@ -41,8 +41,6 @@ a:hover { text-decoration:underline;}
 }
 /* main */
 .main { width:100%; padding:0; margin:0;}
-/********** header **********/
-.header { height:99px; width:1002px; margin:0 auto 17px auto; background:url(images/header_bg.png);}
 
 /* logo */
 
@@ -132,13 +130,6 @@ h2.testimonails { background:url(images/icon_t_4.gif) no-repeat left top;}
 h2.featured_services { background:url(images/icon_t_5.gif) no-repeat left top;}
 /* Portfolio */
 
-/* contact */
-h2.contact { background:url(images/icon_t_9.gif) no-repeat left top;}
-h2.contact_us { background:url(images/icon_t_8.gif) no-repeat left top;}
-ul.contact { padding:0; margin:0 20px; list-style:none;} 
-ul.contact li { width:210px; background: url(images/sub_menu_l.gif) no-repeat 0 7px; padding:0 0 0 15px; margin:0 0 0 5px;}
-ul.contact li a { padding:0; margin:0; background:none;}
-
 /* sub navigation */
 ul.sub_nav { padding:0; margin:0 auto; list-style:none; width:231px;}
 ul.sub_nav li { background:url(images/sub_nav_bg.gif) no-repeat; padding:7px 10px; margin:2px 0;}
@@ -152,15 +143,6 @@ ul.lister li { padding:0; margin:5px 3px; float:left;}
 ul.lister li a { padding:2px 0; float:left; background:url(images/lister.gif) no-repeat; width:24px; height:24px; text-align:center; color:#c7c7c7; font:bold 12px Arial, Helvetica, sans-serif; line-height:1.8em;}
 ul.lister li a:hover { background:url(images/lister_h.gif) no-repeat;}
 ul.lister li a.active { background:url(images/lister_h.gif) no-repeat;}
-
-/********** footer **********/
-.footer { padding:0; margin:0 auto; width:960px;}
-.footer p { font:normal 11px Arial, Helvetica, sans-serif; color:#77848a; padding:30px 0; margin:0; text-align:right; width:50%; float:right;}
-.footer a { color:#77848a; text-decoration:none;}
-.footer ul { padding:20px 0; margin:0; width:50%; float:left; list-style:none;}
-.footer ul li { padding:0 10px; margin:0; float:left; border-left:1px solid #bebfbf;}
-.footer ul li a { color:#3497c4; font:normal 11px Arial, Helvetica, sans-serif; text-decoration:underline;}
-.footer ul li a:hover { text-decoration:none;}
 
 /********** contact form **********/
 #contactform { margin:0; padding:5px 10px;}

@@ -37,6 +37,6 @@
 </div>
 
 <div class="main">
-  <div class="header">
-    <div class="clr"></div>
+  <div class="container">
+    <h1>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</h1>
   </div>
