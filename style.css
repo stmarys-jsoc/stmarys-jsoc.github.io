@@ -17,7 +17,7 @@
     line-height:18px;
     padding-top:10px;
     padding-bottom:5px;
-    background: url('https://static.wixstatic.com/media/209604_6ecd0e0d7c6645618355b8ab1af78883.gif') no-repeat;
+    background: url('/images/jacobite-syrian-logo.gif') no-repeat;
     background-size: 50px;
 }
 
@@ -27,7 +27,7 @@
 }
 
 body {
-    background: url('./images/home-banner-cross.jpg') no-repeat 50% -300px
+    background: url('/images/home-banner-cross.jpg') no-repeat 50% -300px
 }
 
 header.home-banner {
@@ -45,7 +45,7 @@ header.home-banner h1 {
 
 footer {
     background-color: lightslategray;
-    background: url('https://livedemo00.template-help.com/wordpress_53387/wp-content/themes/theme53387/images/footer.jpg');
+    background: url('/images/footer.jpg');
     padding-top: 2em;
     color: aliceblue;
 }
