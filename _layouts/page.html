@@ -2,13 +2,14 @@
 layout: default
 ---
 
-<div class="container">
+<main class="page-content" aria-label="Content">
+  <div class="container">
     <article class="page">
-      <header class="page-header">
-        <h1 class="page-title">{{ page.title | escape }}</h1>
-      </header>
-      <div class="row">      
-      {{ content }}
-      </div>
-    </article>
-</div>
+        <header class="page-header">
+          <h1 class="page-title">{{ page.title | escape }}</h1>
+        </header>
+        {{ content }}
+      </article>
+    </div>
+  </div>
+</main>

@@ -2,24 +2,15 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-  
-  {{ content }}
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
+<div class="col-12">
+    <header class="page-header home-banner">
+      <h1>St.Marys Jacobite Syrian</h1>
+      <h1>Orthodox Church</h1>
+      <h2>Manchester</h2>
+    </header>
 </div>
+<main class="page-content" aria-label="Content">
+  <div class="container">
+    {{ content }}
+  </div>
+</main>

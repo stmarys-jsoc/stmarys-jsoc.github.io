@@ -12,8 +12,40 @@
     color: rgba(0,0,0,0.7);
 }
 
+.navbar-brand {
+    padding-left: 52px;
+    line-height:18px;
+    padding-top:10px;
+    padding-bottom:5px;
+    background: url('https://static.wixstatic.com/media/209604_6ecd0e0d7c6645618355b8ab1af78883.gif') no-repeat;
+    background-size: 50px;
+}
+
+.navbar-brand small {
+  display:block;
+  font-size:14px;
+}
+
+body {
+    background: url('./images/home-banner-cross.jpg') no-repeat 50% -300px
+}
+
+header.home-banner {
+    height: 340px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    padding: 5rem 0;
+    color: ghostwhite;
+    font-weight: bold;
+}
+
+header.home-banner h1 {
+    line-height: 4rem;
+}
+
 footer {
     background-color: lightslategray;
+    background: url('https://livedemo00.template-help.com/wordpress_53387/wp-content/themes/theme53387/images/footer.jpg');
     padding-top: 2em;
     color: aliceblue;
 }
@@ -37,6 +69,11 @@ footer a:hover {
 footer ul {
     padding-left: 0px;
     list-style-type: none;
+}
+
+.page-content {
+    background-color: rgba(255,255,255,1);
+    padding: 1rem 0;
 }
 
 @media (min-width: 992px) {

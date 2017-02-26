@@ -6,9 +6,10 @@
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | relative_url }}" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | relative_url }}" type="text/css" />
   <link href="{{ "style.css" | relative_url }}" rel="stylesheet" type="text/css" />
-  <link href="{{ "/css/jquery.tabs.css" | relative_url }}" rel="stylesheet" type="text/css" media="print, projection, screen" />
+  <link href="{{ "/css/jquery.tabs.css" | relative_url }}" rel="stylesheet" type="text/css" media="all" />
   
   <!-- Additional IE/Win specific style sheet (Conditional Comments) -->
   <!--[if lte IE 7]>
