@@ -18,14 +18,14 @@ Bejoy Alias
 Saju Pappachan
 
 ### Treasurer
-Reji Thomas
+Ashen Paul
 
 ### Managing Committee Members
-- Ashen Paul
-- Binu Skariah
+- Abin Jose
 - Eldo Paul
-- Eldo Peringattel Kuriakose
-- Jacob Koshy
-- Jobin George
-- Manju Juby
-- Shaji P Joseph
+- George John
+- Kernal Eapen
+- K.J. Kuriakose
+- Reji Thomas
+- Smera Smith
+- Soban Poulose
