@@ -35,14 +35,15 @@ in South India in AD. 52.</p>
 </div>
 
 ### Metropolitan
-#### His Grace Zacharias Mor Philoxenos
+#### His Grace Mathews Mor Antheemos
 <div class="row">
     <div class="col-md-4">
-        <img class="img-fluid" alt="His Grace Zacharias Mor Philoxenos" src="/images/PhiloxZachar.jpg" />
+        <img class="img-fluid" alt="His Grace Mathews Mor Antheemos" src="/images/AntheemosMathews.jpg" />
     </div>
     <div class="col-md-8">
-        <h5>Patriarchal Vicar of Malankara Churches in UK and Metropolitan of Malabar Diocese</h5>
-        <p>H.G. Zacharias Mor Philoxenos was born in Kumarakom, Kottayam, Kerala in 1972. He was brought up in the Syriac Orthodox faith since his childhood. He passed his SSLC exams with first class and joined St.Marys College Manarcad Kottayam for Pre Degree Course, as of 2013 Philoxinos was the chief Patron of Marian Alumni The Old Students Association of St.Marys College Manarcad, Baselious College, Kottayam where he did his B.A. in English literature.</p>
-        <p>Mor Philoxenos was ordained a deacon in 1998 by Geevarghese Mor Gregorios (Perumpally Thirumeni) and a priest in 2000 by Thomas Mor Themotheose Metropolitan. After his ordination, he served various parishes in Kottayam Diocese. As well as he is the spiritual leader of all spiritual organisations of the Jacobite Church.</p>
+        <h5>Patriarchal Vicar and Metropolitan of Malankara Syrian Orthodox Churches in U.K. and Ireland</h5>
+        <p>H.G. Mathews Mor Antheemos Metropolitan was born to parents Mr. C M Joseph & Mrs. Mary Joseph, Chully Family of Alwaye in 1974. His merits include: 1. Doctorate in Theology (D Th) from the Paris Lodron University, Salzburg, Austria in Patristic Theology – “Integrity of Creation in the Theology of Ephrem the Syrian. A Patristic Eco-theology” – guided by the Head of the Department of Biblical Studies and Ecclesiastical History Univ. Prof. Dr. Dietmar W. Winkler. 2. Certificate in German Language from Ostkirchliches Institut, Regensburg, Germany. 3. BD (Bachelor of Divinty) from The United Theological College, (UTC) Bangalore, Karnataka, India. 4. MA Economics from Mahatma Gandhi University, Kottayam, Kerala, India. 5. BA Economics from Mahatma Gandhi University, Kottayam, Kerala, India. 6. Matriculation from Vidyadhi Raja Vidya Bhavan Higher Secondary School, Aluva, Kerala, India.</p>
+        <p>Mor Antheemos was ordained a Ramban by Catholicos H.B. Baselios Thomas I on 27 December 2011 and ordained as a Metropolitan by His Holiness Ignatius Zakka-I Iwas on 15 January 2012.</p>
+        <p>Current Responsibilities - 1. Patriarchal Vicar and Metropolitan of Malankara Syrian Orthodox Churches in U.K. and Ireland 2. Metropolitan of Muvattupuzha region of Angamali diocese.</>
     </div>
 </div>
