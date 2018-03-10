@@ -38,7 +38,7 @@ in South India in AD. 52.</p>
 #### His Grace Mathews Mor Antheemos
 <div class="row">
     <div class="col-md-4">
-        <img class="img-fluid" alt="His Grace Mathews Mor Antheemos" src="/images/AntheemosMathews.jpg" />
+        <img class="img-fluid" alt="His Grace Mathews Mor Antheemos" src="/images/AtheemosMathews.jpg" />
     </div>
     <div class="col-md-8">
         <h5>Patriarchal Vicar and Metropolitan of Malankara Syrian Orthodox Churches in U.K. and Ireland</h5>
