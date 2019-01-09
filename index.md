@@ -19,3 +19,6 @@ in England.This parish is under the patronage of His Holiness Moran Mor Ignatius
 (Prince Patriarch of Antioch & Supreme Head of the Universal Syrian Orthodox Church), His Beatitude Aboon Mor Baselios Thomas I (Catholicos of the East & Metropolitan) and His Grace Zacharias Mor Philoxenos (Patriarchal Vicar of Malankara Churches in UK and Metropolitan of Malabar Diocese).
 
 Rev. Fr. Geevarghese Thandayath is the vicar/president of this parish. We worship at St Francis church, Bud worth road, Sale moor, M33 2RP. The Holy Qurbana is celebrated on every SECOND and FOURTH Sunday of the month at 9.30AM. We conduct Sunday School class in Malayalam for our children after the Holy Qurbana.
+
+## What's new
+We are looking to buy a church for ourselves so we can have more frequent holy masses and god willing, it will happen this year 2019. We request your prayers and support for this matter also.
