@@ -5,7 +5,7 @@ permalink: '/gallery/'
 ---
 <p>
         <li>VBS 2018, Manchester <br/>
-                <embed type="application/x-shockwave-flash" src="<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FStMarysJSOCManchester%2Fposts%2F904249806441062&width=500" width="500" height="650" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>"
+               "<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FStMarysJSOCManchester%2Fposts%2F904249806441062&width=500" width="500" height="650" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>"
         </li>
 </p>
 <p>
