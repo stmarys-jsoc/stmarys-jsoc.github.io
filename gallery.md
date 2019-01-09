@@ -14,6 +14,11 @@ permalink: '/gallery/'
         </li>
 </p>
 <p>
+        <li>Christmas 2017, Manchester<br/>
+               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FStMarysJSOCManchester%2Fposts%2F714435458755832&width=500" width="500" height="650" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+        </li>
+</p>
+<p>
         <li>VBS 2015, Manchester <br/>
                 <embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="288" height="192" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F111101874185058182719%2Falbumid%2F6213409296361761137%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer">
         </li>
