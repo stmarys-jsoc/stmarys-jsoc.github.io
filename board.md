@@ -8,8 +8,8 @@ permalink: '/board/'
 <img src="{{ "/images/Fr.Geevarghese.jpg" | relative_url }}" class="img-thumbnail"/> <br />
 Rev. Fr. Geevarghese Thandayath
 
-### Vice President
-Rev. Fr. Peter Kuriakose
+### Assistant Vicar
+Rev. Fr. Eldhose Vattaparambil
 
 ### Secretary
 Bejoy Alias
