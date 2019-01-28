@@ -6,7 +6,7 @@ permalink: '/'
 ## Welcome
 According to tradition, Christianity in India was established by St. Thomas who arrived in Malankara (Kerala) in A.D. 52.
 The church in Malankara is an integral part of the Syrian Orthodox Church with the Patriarch of Antioch,
-His Holiness Moran Mor Ignatius Zakka I Iwas as its supreme head. The local head of the church in Malankara
+His Holiness Moran Mor Ignatius Aphrem II as its supreme head. The local head of the church in Malankara
 is the Catholicose of India, His Beatitude Aboon Mor Baselios Thomas I, ordained by and accountable to the Patriarch of Antioch.
 
 The Malankara Jacobite Syrian Orthox Church members living in U.K. forms the Malankara Jacobite Syrian Orthodox Church in U.K.
