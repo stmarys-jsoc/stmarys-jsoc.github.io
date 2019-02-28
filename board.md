@@ -11,6 +11,9 @@ Rev. Fr. Geevarghese Thandayath
 ### Assistant Vicar
 Rev. Fr. Eldhose Vattaparambil
 
+### Vice President
+Jacob Koshy
+
 ### Secretary
 Bejoy Alias
 
