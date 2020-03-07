@@ -16,5 +16,5 @@ permalink: '/contact/'
 ### Phone Numbers
 <ul>
   <li>Rev. Fr. Geevarghese Thandayath(Vicar): 07961785688</li>
-  <li>Bijoy Alias(Secretary): 07588531911</li>
+  <li>Bijoy Alias(Secretary): 07402958879</li>
 </ul>
