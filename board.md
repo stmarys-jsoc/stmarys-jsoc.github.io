@@ -18,17 +18,21 @@ Jacob Koshy
 Bejoy Alias
 
 ### Joint Secretary
-Saju Pappachan
+Binu Skariah
 
 ### Treasurer
-Ashen Paul
+Eldo Peringattel Kuriakose
+
+### Joint Treasurer
+Kernal Eapen
+
+### Council Member
+Saju Pappachan
 
 ### Managing Committee Members
-- Abin Jose
-- Eldo Paul
-- George John
-- Kernal Eapen
-- K.J. Kuriakose
-- Reji Thomas
-- Smera Smith
-- Soban Poulose
+- Ashen Paul
+- Jobin George
+- Dr Sabu Abraham
+- Shaji Joseph
+- Sindu Saju
+- Smithmon Mathappan
