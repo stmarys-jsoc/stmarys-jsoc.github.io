@@ -37,13 +37,13 @@ in South India in AD. 52.</p>
 
 
 ### Metropolitan
-#### His Grace Dr. Issac Mor Osthatheos
+#### His Grace Issac Mor Osthatheos
 <div class="row">
     <div class="col-md-4">
         <img class="img-fluid" alt="His Grace Mathews Mor Antheemos" src="/images/Mor_Osthatheos_Issac.png" />
     </div>
     <div class="col-md-8">
         <h5>Patriarchal Vicar and Metropolitan of Malankara Syrian Orthodox Churches in U.K. and Ireland</h5>
-        <p>H.G. Dr. Issac Mor Osthatheos was born on January 17th 1976 as the son of Mr. C.I. Thomas and Saramma Thomas, Pachilakkattu (Ceetharukuzhiyil) Puthuveli, Kottayam. The St. Stephens Jacobite Syrian Orthodox Church, Koothattukulam in Kandanadu Diocese is the home parish of the Metropolitan. Late Lamented Mor Osthathios Thomas, Metropolitan of Kochi diocese, is his grandfather’s brother.</p>
+        <p>H.G. Issac Mor Osthatheos was born on January 17th 1976 as the son of Mr. C.I. Thomas and Saramma Thomas, Pachilakkattu (Ceetharukuzhiyil) Puthuveli, Kottayam. The St. Stephens Jacobite Syrian Orthodox Church, Koothattukulam in Kandanadu Diocese is the home parish of the Metropolitan. Late Lamented Mor Osthathios Thomas, Metropolitan of Kochi diocese, is his grandfather’s brother.</p>
         <p>On January4, 2010, His Beatitude the Catholicos Baselios Thomas-I, assisted by metropolitans from India, consecrated him a Metropolitan by name OSTHATHEOS at a divine ceremony held at the St. Athanasious Cathedral in the Malankara Syrian Church headquarters, Puthencuriz.  On ordination the new metropolitan was given charge of the Mylapore diocese which was earlier known as Chennai diocese. </p>
         <p>Current Responsibilities - 1. Patriarchal Vicar and Metropolitan of Malankara Syrian Orthodox Churches in U.K. and Ireland 2. Metropolitan of Mylapore Diocese in Tamil Nadu.
