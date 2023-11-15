@@ -21,7 +21,7 @@ Reji Thomas
 Binu Thankachan
 
 ### Treasurer
-Eldo Peringattel Kuriakose
+Eldo Peringattel
 
 ### Joint Treasurer
 Basil Sunny
