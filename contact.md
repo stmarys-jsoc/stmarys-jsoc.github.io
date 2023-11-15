@@ -7,10 +7,10 @@ permalink: '/contact/'
 ### Address
 <address>
   <strong>St. Mary's J.S.O.C Manchester</strong><br />
-  3 Sunny Bank Close<br />
-  Macclesfield<br />
-  Cheshire<br />
-  SK11 7RJ
+  1 Keasdon Avenue<br />
+  Wythenshawe<br />
+  Manchester<br />
+  M22 9AP
 </address>
 
 ### Phone Numbers
