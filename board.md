@@ -15,24 +15,24 @@ Rev. Fr. Lilu Varghese
 Jacob Koshy
 
 ### Secretary
-Bejoy Alias
+Reji Thomas
 
 ### Joint Secretary
-Binu Skariah
+Binu Thankachan
 
 ### Treasurer
 Eldo Peringattel Kuriakose
 
 ### Joint Treasurer
-Kernal Eapen
+Basil Sunny
 
 ### Council Member
 Saju Pappachan
 
 ### Managing Committee Members
-- Ashen Paul
+- Bijoy Alias
 - Jobin George
-- Dr Sabu Abraham
-- Shaji Joseph
-- Sindu Saju
-- Smithmon Mathappan
+- Kernal Eapen
+- Sindhu Saju
+- Thomas Chacko
+- Thomas Paul
