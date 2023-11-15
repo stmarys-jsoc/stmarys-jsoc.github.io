@@ -18,4 +18,4 @@ St.Marys Jacobite Syrian Orthodox Church, Manchester formed in 2004 is one of th
 in England.This parish is under the patronage of His Holiness Moran Mor Ignatius Aphrem II
 (The Supreme Head of universal Syrian Orthodox Church & 123rd successor of St.Peter in the Apostolic See of Antioch), His Beatitude Aboon Mor Baselios Thomas I (Catholicos of the East & Metropolitan) and His Grace Issac Mor Osthatheos (Patriarchal Vicar and Metropolitan of Malankara Syrian Orthodox Churches in U.K.).
 
-Rev. Fr. Geevarghese Thandayath is the vicar/president of this parish. We worship at St.Mary's JSOC Manchester, Moffat Cl, Breightmet, Bolton BL2 6UA. The Holy Qurbana is celebrated Sunday of the month at 9.30AM. We conduct Sunday School class in Malayalam for our children after the Holy Qurbana.
+Rev. Fr. Geevarghese Thandayath is the vicar/president of this parish. We worship at St.Mary's JSOC Manchester, Moffat Cl, Breightmet, Bolton BL2 6UA. The Holy Qurbana is celebrated on every Sunday of the month at 9.30AM. We conduct Sunday School class in Malayalam for our children after the Holy Qurbana.
