@@ -9,7 +9,7 @@ permalink: '/board/'
 Rev. Fr. Geevarghese Thandayath
 
 ### Assistant Vicar
-Rev. Fr. Eldhose Vattaparambil
+Rev. Fr. Lilu Varghese
 
 ### Vice President
 Jacob Koshy
