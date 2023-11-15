@@ -15,7 +15,7 @@ permalink: '/contact/'
 
 ### Phone Numbers
 <ul>
-  <li>Rev. Fr. Geevarghese Thandayath (Vicar): 07961785688</li>
-  <li>Reji Thomas (Secretary): 07588585949</li>
-  <li>Eldo Peringattel (Treasurer): 07903377178</li>
+  <li><strong>Rev. Fr. Geevarghese Thandayath</strong> (Vicar): 07961785688</li>
+  <li><strong>Reji Thomas</strong> (Secretary): 07588585949</li>
+  <li><strong>Eldo Peringattel</strong> (Treasurer): 07903377178</li>
 </ul>
