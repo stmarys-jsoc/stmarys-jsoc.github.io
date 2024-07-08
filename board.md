@@ -12,10 +12,10 @@ Rev. Fr. Geevarghese Thandayath
 Rev. Fr. Lilu Varghese
 
 ### Vice President
-Jacob Koshy
+Kernal Eapen
 
 ### Secretary
-Reji Thomas
+K.J. Kuriakose
 
 ### Joint Secretary
 Binu Thankachan
@@ -30,9 +30,9 @@ Basil Sunny
 Saju Pappachan
 
 ### Managing Committee Members
+- Ajeesh Cherian
 - Bijoy Alias
 - Jobin George
-- Kernal Eapen
 - Sindhu Saju
 - Thomas Chacko
 - Thomas Paul
