@@ -7,10 +7,10 @@ permalink: '/contact/'
 ### Address
 <address>
   <strong>St. Mary's J.S.O.C Manchester</strong><br />
-  1 Keasdon Avenue<br />
-  Wythenshawe<br />
-  Manchester<br />
-  M22 9AP
+  Moffat Cl<br />
+  Breightmet<br />
+  Bolton<br />
+  BL2 6UA
 </address>
 
 ### Phone Numbers
