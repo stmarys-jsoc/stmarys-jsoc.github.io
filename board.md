@@ -5,7 +5,7 @@ permalink: '/board/'
 ---
       
 ### Vicar / President
-<img src="{{ "/images/Lilu Achan.png" | relative_url }}" class="img-thumbnail"/> <br />
+<img src="{{ "/images/LiluAchan.png" | relative_url }}" class="img-thumbnail"/> <br />
 Rev. Fr. Lilu Varghese
 
 ### Assistant Vicar
