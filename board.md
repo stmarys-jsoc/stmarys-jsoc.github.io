@@ -6,10 +6,10 @@ permalink: '/board/'
       
 ### Vicar / President
 <img src="{{ "/images/Fr.Geevarghese.jpg" | relative_url }}" class="img-thumbnail"/> <br />
-Rev. Fr. Geevarghese Thandayath
+Rev. Fr. Lilu Varghese
 
 ### Assistant Vicar
-Rev. Fr. Lilu Varghese
+Rev. Fr. Sanu Mathew
 
 ### Vice President
 Kernal Eapen
