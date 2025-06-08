@@ -12,27 +12,29 @@ Rev. Fr. Lilu Varghese
 Rev. Fr. Sanu Mathew
 
 ### Vice President
-Kernal Eapen
+Dr. Sabu Abraham
 
 ### Secretary
 K.J. Kuriakose
 
 ### Joint Secretary
-Binu Thankachan
+Manoj P Mani
 
 ### Treasurer
-Eldo Peringattel
+Ashen Paul
 
 ### Joint Treasurer
-Basil Sunny
-
-### Council Member
-Saju Pappachan
+Basil Varghese
 
 ### Managing Committee Members
 - Ajeesh Cherian
-- Bijoy Alias
-- Jobin George
-- Sindhu Saju
-- Thomas Chacko
-- Thomas Paul
+- Aji P Ulahannan (Sunday School)
+- Ancy Sanu (Vanitha Samajam)
+- Eldo Peringattel (Ex-official)
+- Gibin Jose (Youth Association)
+- Soniya Laveen
+- Thomas T Kurian
+
+### Auditors
+- Basil Sunny
+- John P Ulahannan
