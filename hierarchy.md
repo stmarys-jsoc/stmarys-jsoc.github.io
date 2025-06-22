@@ -24,7 +24,7 @@ permalink: '/hierarchy/'
         <img class="img-fluid" alt="His Beatitude Aboon Mor Baselios Joseph" src="/images/Catholicose.png" />
     </div>
     <div class="col-md-8">
-        <h5>Catholicos of Indiae</h5>
+        <h5>Catholicos of India</h5>
         <p>Catholicos Baselios Joseph (November 10, 1960) is Maphriyono/Catholicos of the Syriac Orthodox Church 
 and the regional head of Malankara Syriac Orthodox Church. His official title is Catholicos of India although
 sometimes called Catholicos of the East. It was on 25th March 2025 he was enthroned as the Catholicos and the head
