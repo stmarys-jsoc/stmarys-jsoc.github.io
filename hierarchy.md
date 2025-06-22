@@ -21,7 +21,7 @@ permalink: '/hierarchy/'
 #### His Beatitude Aboon Mor Baselios Joseph
 <div class="row">
     <div class="col-md-4">
-        <img class="img-fluid" alt="His Beatitude Aboon Mor Baselios Joseph" src="/images/Catholicose.png" />
+        <img class="img-fluid" alt="His Beatitude Aboon Mor Baselios Joseph" src="/images/Catholicose Baselios Joseph.png" />
     </div>
     <div class="col-md-8">
         <h5>Catholicos of India</h5>
