@@ -18,16 +18,16 @@ permalink: '/hierarchy/'
 </div>
 
 ### Catholicos
-#### His Beatitude Aboon Mor Baselios Thomas I
+#### His Beatitude Aboon Mor Baselios Joseph
 <div class="row">
     <div class="col-md-4">
-        <img class="img-fluid" alt="His Beatitude Aboon Mor Baselios Thomas I" src="/images/Catholicose.png" />
+        <img class="img-fluid" alt="His Beatitude Aboon Mor Baselios Joseph" src="/images/Catholicose.png" />
     </div>
     <div class="col-md-8">
-        <h5>Catholicos of the East & Metropolitan Trustee</h5>
-        <p>Catholicos Baselios Thomas I (July 22, 1929) is Maphriyono/Catholicos of the Syriac Orthodox Church 
+        <h5>Catholicos of Indiae</h5>
+        <p>Catholicos Baselios Joseph (November 10, 1960) is Maphriyono/Catholicos of the Syriac Orthodox Church 
 and the regional head of Malankara Syriac Orthodox Church. His official title is Catholicos of India although
-sometimes called Catholicos of the East. It was on 26 July 2002 he was enthroned as the Catholicos and the head
+sometimes called Catholicos of the East. It was on 25th March 2025 he was enthroned as the Catholicos and the head
 of the Church in India. He is the regional head of the 1.2 million Syriac Christians of India, a Christian
 community believed to have been established by Apostle St. Thomas in a place called Maliyankara, near North Paravur
 in South India in AD. 52.</p>
