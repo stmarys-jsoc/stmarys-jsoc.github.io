@@ -15,7 +15,7 @@ permalink: '/contact/'
 
 ### Phone Numbers
 <ul>
-  <li><strong>Rev. Fr. Geevarghese Thandayath</strong> (Vicar): 07961785688</li>
+  <li><strong>Rev. Fr. Lilu Varghese</strong> (Vicar): 07388292373</li>
   <li><strong>K.J. Kuriakose</strong> (Secretary): 07447979398</li>
-  <li><strong>Eldo Peringattel</strong> (Treasurer): 07903377178</li>
+  <li><strong>Ashen Paul</strong> (Treasurer): 07886277470</li>
 </ul>
