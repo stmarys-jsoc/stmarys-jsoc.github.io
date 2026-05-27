@@ -15,7 +15,7 @@ permalink: '/contact/'
 
 ### Phone Numbers
 <ul>
-  <li><strong>Rev. Fr. Lilu Varghese</strong> (Vicar): 07388292373</li>
+  <li><strong>Rev. Fr. Sanu Mathew</strong> (Vicar): 07423030993</li>
   <li><strong>K.J. Kuriakose</strong> (Secretary): 07447979398</li>
   <li><strong>Ashen Paul</strong> (Treasurer): 07886277470</li>
 </ul>
