@@ -10,12 +10,10 @@ His Holiness Moran Mor Ignatius Aphrem II as its supreme head. The local head of
 is the Catholicose of India, His Beatitude Aboon Mor Baselios Thomas I, ordained by and accountable to the Patriarch of Antioch.
 
 The Malankara Jacobite Syrian Orthox Church members living in U.K. forms the Malankara Jacobite Syrian Orthodox Church in U.K.
-(MSOC-UK) under the Patriarchal Vicar and Metropolitan of Malankara Syrian Orthodox Churches in U.K. and Ireland, His Grace Mathews Mor Antheemos. Our church is one of the parishes
-under MSOC-UK. Our parish is named after St.Mary.
+(MSOC-UK) under the Patriarchal Vicar and Metropolitan of Malankara Syrian Orthodox Churches in U.K., His Grace Issac Mor Osthatheos. Our church is one of the parishes under MSOC-UK. Our parish is named after St.Mary.
 
 ## About Us
-St.Marys Jacobite Syrian Orthodox Church, Manchester formed in 2004 is one of the first parish churches of the Malankara Jacobite Syrian Orthodox Church
-in England.This parish is under the patronage of His Holiness Moran Mor Ignatius Aphrem II
-(The Supreme Head of universal Syrian Orthodox Church & 123rd successor of St.Peter in the Apostolic See of Antioch), His Beatitude Aboon Mor Baselios Thomas I (Catholicos of the East & Metropolitan) and His Grace Issac Mor Osthatheos (Patriarchal Vicar and Metropolitan of Malankara Syrian Orthodox Churches in U.K.).
+St.Marys Jacobite Syrian Orthodox Church, Manchester formed in 2004 is one of the first parish churches of the Malankara Jacobite Syrian Orthodox Church in England.This parish is under the patronage of His Holiness Moran Mor Ignatius Aphrem II
+(The Supreme Head of universal Syrian Orthodox Church & 123rd successor of St.Peter in the Apostolic See of Antioch), His Beatitude Aboon Mor Baselios Joseph (Catholicos of the East & Malankara Metropolitan) and His Grace Issac Mor Osthatheos (Patriarchal Vicar and Metropolitan of Malankara Syrian Orthodox Churches in U.K.).
 
-Rev. Fr. Lilu Varghese is the vicar/president of this parish. Our assistant vicar is Rev. Fr. Sanu Mathew. We worship at St.Mary's JSOC Manchester, Moffat Cl, Breightmet, Bolton BL2 6UA. The Holy Qurbana is celebrated on every Sunday of the month at 9:30 AM. We conduct Sunday School class in Malayalam for our children after the Holy Qurbana.
+Rev. Fr. Sanu Mathew is the vicar/president of this parish. Our assistant vicar is Rev. Fr. Geevarghese. We worship at St.Mary's JSOC Manchester, Moffat Cl, Breightmet, Bolton BL2 6UA. The Holy Qurbana is celebrated on every Sunday of the month at 9:30 AM. We conduct Sunday School class in Malayalam for our children after the Holy Qurbana.
