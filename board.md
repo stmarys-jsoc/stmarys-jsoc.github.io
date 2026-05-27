@@ -5,7 +5,7 @@ permalink: '/board/'
 ---
       
 ### Vicar / President
-<img src="{{ "/images/Sanu Achan.png" | relative_url }}" class="img-thumbnail"/> <br />
+<img src="{{ "/images/Sanu Achan CV.png" | relative_url }}" class="img-thumbnail"/> <br />
 Rev. Fr. Sanu Mathew
 
 ### Assistant Vicar
