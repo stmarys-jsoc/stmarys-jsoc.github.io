@@ -9,6 +9,7 @@ permalink: '/board/'
 Rev. Fr. Sanu Mathew
 
 ### Assistant Vicar
+<img src="{{ "/images/Fr.Geevarghese Manchester.jpg" | relative_url }}" class="img-thumbnail"/> <br />
 Rev. Fr. Geevarghese
 
 ### Vice President
