@@ -6,10 +6,10 @@ permalink: '/board/'
       
 ### Vicar / President
 <img src="{{ "/images/Fr.Lilu.png" | relative_url }}" class="img-thumbnail"/> <br />
-Rev. Fr. Lilu Varghese
+Rev. Fr. Sanu Mathew
 
 ### Assistant Vicar
-Rev. Fr. Sanu Mathew
+Rev. Fr. Geevarghese
 
 ### Vice President
 Dr. Sabu Abraham
